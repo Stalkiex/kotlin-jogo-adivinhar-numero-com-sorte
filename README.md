@@ -21,7 +21,7 @@ O objetivo não é adivinhar logo o número, mas sim "cercá-lo".
 
 ### Fase B: Adivinha o Salto (20 Pontos)
 * Descobre qual foi o salto (step) utilizado na configuração inicial para construir a lista de números.
-* -se 1 ponto por cada palpite errado.
+* -1 ponto por cada palpite errado.
 
 ### Fase C: O Número com Sorte (20 Pontos)
 A derradeira fase! Aqui tem de se adivinhar o número exato.
