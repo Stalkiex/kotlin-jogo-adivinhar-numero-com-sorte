@@ -37,3 +37,6 @@ No final, o jogo revela o número secreto e apresenta a *Pontuação Total*, que
 
 ## Como Executar:
 Basta clonar este repositório, abri-lo numa IDE que suporte Kotlin (como o IntelliJ IDEA) e correr o ficheiro "Main.kt".
+
+## Autor:
+Stalkie
